@@ -1,0 +1,9 @@
+Task,Assistant,Language,Strategy1,Strategy2,Strategy3,Strategy4,Strategy5,Strategy6,Strategy7,Strategy8,Strategy9,Strategy10
+A,Siri,English,1,6,1,0,1,2,1,3,0,0
+A,Siri,Spanish,2,4,1,0,2,3,0,3,0,0
+A,Google,English,1,1,0,1,4,3,3,1,1,0
+A,Google,Spanish,0,3,3,0,0,3,2,2,1,1
+B,Siri,English,0,2,0,0,5,0,0,1,12,0
+B,Siri,Spanish,0,0,0,2,12,0,0,6,0,0
+B,Google,English,0,0,0,16,3,0,0,0,1,0
+B,Google,Spanish,0,0,0,20,0,0,0,0,0,0
