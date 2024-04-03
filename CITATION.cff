@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: An Analysis of Dialogue Repair in Virtual Assistants
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Matthew
+    family-names: Galbraith
+    email: matthew.galbraith@upf.edu
+    affiliation: Universitat Pompeu Fabra
+    orcid: 'https://orcid.org/0000-0002-6299-2610'
+repository-code: 'https://github.com/MatthewCGalbraith/FrontiersData'
+keywords:
+  - Human-computer interaction
+  - HCI
+  - Human-robot Interaction
+  - HRI
+  - Virtual assistants
+  - Acceptability judgements
+  - Conversational user interface
+  - Interactional language
+  - Conversational repair
+  - Dialogue Repair
+license: CC-BY-4.0
